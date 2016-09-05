@@ -7,7 +7,8 @@ insert into PRODUCT_INFO_TB values('2753/101','레이스업 스니커즈',79000,'크림 컬
 insert into PRODUCT_INFO_TB values('7688/999','판타지 스트라이프 포플린 셔츠',59000,'셔츠형 칼라가 달린 셔츠. 가슴에 플랩 포켓이 있음. 옆면과 뒷면에 트임이 있음. 밑단이 언발란스한 디자인. 소매를 접을 수 있도록 스트랩이 달림. 뒷면에 셔링이 잡힘.','Top','/pic/7688_999.bmp','겉감\n100% 면','/pic/laundry1.png');
 
 insert into PRODUCT_INFO_TB values('0881/068','루즈핏 롱 스커트',39000,'발목 길이까지 내려오는 스커트. 허리는 신축성있게 마감됨. 테슬이 달린 끈 디테일이 있음. 내부는 안감 처리됨.','Bottom','/pic/0881_068.bmp','겉감\n100% 비스코스\n안감\n100% 폴리에스터','/pic/laundry1.png');
-#주석
+
+#하하
 
 insert into LOOKS_PRODUCT_TB values(1,'0264/067');
 insert into LOOKS_PRODUCT_TB values(1,'2753/101');
