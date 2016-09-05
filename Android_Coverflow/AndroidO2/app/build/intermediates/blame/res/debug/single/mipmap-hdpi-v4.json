@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/elainachoe/Documents/AndroidO2/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/elainachoe/Documents/AndroidO2/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/elainachoe/Documents/AndroidO2/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/o2.png",
+        "source": "/Users/elainachoe/Documents/AndroidO2/app/src/main/res/mipmap-hdpi/o2.png"
+    }
+]

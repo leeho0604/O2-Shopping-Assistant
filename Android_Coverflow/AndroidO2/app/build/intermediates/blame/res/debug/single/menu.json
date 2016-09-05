@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/elainachoe/Documents/AndroidO2/app/build/intermediates/res/merged/debug/menu/popupmenu.xml",
+        "source": "/Users/elainachoe/Documents/AndroidO2/app/src/main/res/menu/popupmenu.xml"
+    },
+    {
+        "merged": "/Users/elainachoe/Documents/AndroidO2/app/build/intermediates/res/merged/debug/menu/menu_coverflow_activity.xml",
+        "source": "/Users/elainachoe/Documents/AndroidO2/app/src/main/res/menu/menu_coverflow_activity.xml"
+    },
+    {
+        "merged": "/Users/elainachoe/Documents/AndroidO2/app/build/intermediates/res/merged/debug/menu/menu_android_with_swipe_view.xml",
+        "source": "/Users/elainachoe/Documents/AndroidO2/app/src/main/res/menu/menu_android_with_swipe_view.xml"
+    }
+]
