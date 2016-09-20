@@ -8,7 +8,7 @@ insert into PRODUCT_INFO_TB values('7688/999','판타지 스트라이프 포플린 셔츠',59
 
 insert into PRODUCT_INFO_TB values('0881/068','루즈핏 롱 스커트',39000,'발목 길이까지 내려오는 스커트. 허리는 신축성있게 마감됨. 테슬이 달린 끈 디테일이 있음. 내부는 안감 처리됨.','Bottom','/pic/0881_068.bmp','겉감\n100% 비스코스\n안감\n100% 폴리에스터','/pic/laundry1.png');
 
-#하하
+
 
 insert into LOOKS_PRODUCT_TB values(1,'0264/067');
 insert into LOOKS_PRODUCT_TB values(1,'2753/101');
