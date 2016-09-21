@@ -79,20 +79,20 @@ insert into LOOKS_PRODUCT_TB values (17,'0264/223');
 insert into LOOKS_PRODUCT_TB values (17,'5104/101');
 
 insert into PRODUCT_INFO_TB values ('8005/104','엠보스드 버킷백',79000,'블랙 컬러 버킷백 스타일의 가방. 애니멀 패턴으로 엠보싱 처리된 디자인. 내부에 수납공간이 3개 있음. 가운데 수납 공간은 지퍼로 잠금. 자석으로 잠금. 손잡이와 탈부착이 가능한 어깨끈. 
-세로 x 가로 x 폭: 29 x 24 x 19cm','Acc','/pic/8005_104.bmp','겉감\n100% 폴리우레탄\n안감\n100% 폴리에스터','/pic/laundry4.png');
+세로 x 가로 x 폭: 29 x 24 x 19cm','Acc','/pic/8005_104.jpg','겉감:100%:폴리에스터','/pic/laundry4.png');
 insert into LOOKS_PRODUCT_TB values (17,'8005/104');
 
 
 
 
 
-insert into LOOKS_INFO_TB values(18,'bea3','/pic/look_18.bmp');
+insert into LOOKS_INFO_TB values(18,'bea3','/pic/look_18.jpg');
 #http://www.zara.com/kr/ko/woman/free-bird/%EB%B3%BC%EB%A5%A8-%EB%B8%94%EB%9D%BC%EC%9A%B0%EC%8A%A4-c450502p3649534.html
 
-insert into PRODUCT_INFO_TB values ('7200/221','볼륨 블라우스',49000,'라운드넥 블라우스. 긴소매. 커프스와 네크라인에 디테일이 있음. 뒷면에서 여밈.','Top','/pic/7200_221.bmp','겉감\n100% 폴리에스터','/pic/laundry9.png');
+insert into PRODUCT_INFO_TB values ('7200/221','볼륨 블라우스',49000,'라운드넥 블라우스. 긴소매. 커프스와 네크라인에 디테일이 있음. 뒷면에서 여밈.','Top','/pic/7200_221.jpg','겉감:100% 폴리에스터','/pic/laundry9.png');
 insert into LOOKS_PRODUCT_TB values (18,'7200/221');
 
-insert into PRODUCT_INFO_TB values ('3564/220','하이웨이스트 캐롯핏 팬츠',59000,'하이 웨이스트 팬츠. 벨트 고리. 앞면에 플리츠 주름이 있음. 옆면에 포켓이 있음. ','Bottom','/pic/3564_220.bmp','겉감\n64% 비스코스, 36% 폴리에스터','/pic/laundry3.png');
+insert into PRODUCT_INFO_TB values ('3564/220','하이웨이스트 캐롯핏 팬츠',59000,'하이 웨이스트 팬츠. 벨트 고리. 앞면에 플리츠 주름이 있음. 옆면에 포켓이 있음. ','Bottom','/pic/3564_220.jpg','겉감:64% 비스코스, 36% 폴리에스터','/pic/laundry3.png');
 insert into LOOKS_PRODUCT_TB values (18,'3564/220');
 
 insert into LOOKS_PRODUCT_TB values (18,'5104/101');
