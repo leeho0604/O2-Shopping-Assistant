@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/elainachoe/Documents/AndroidO2_COVERFLOW_2/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/elainachoe/Documents/AndroidO2_COVERFLOW_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/drawable-v23/abc_control_background_material.xml"
+    }
+]
