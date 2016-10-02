@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/elainachoe/Desktop/붙여보기데모/AndroidO2_COVERFLOW_3/app/build/intermediates/res/merged/debug/menu/popupmenu.xml",
+        "source": "/Users/elainachoe/Desktop/붙여보기데모/AndroidO2_COVERFLOW_3/app/src/main/res/menu/popupmenu.xml"
+    },
+    {
+        "merged": "/Users/elainachoe/Desktop/붙여보기데모/AndroidO2_COVERFLOW_3/app/build/intermediates/res/merged/debug/menu/menu_android_with_swipe_view.xml",
+        "source": "/Users/elainachoe/Desktop/붙여보기데모/AndroidO2_COVERFLOW_3/app/src/main/res/menu/menu_android_with_swipe_view.xml"
+    },
+    {
+        "merged": "/Users/elainachoe/Desktop/붙여보기데모/AndroidO2_COVERFLOW_3/app/build/intermediates/res/merged/debug/menu/menu_coverflow_activity.xml",
+        "source": "/Users/elainachoe/Desktop/붙여보기데모/AndroidO2_COVERFLOW_3/app/src/main/res/menu/menu_coverflow_activity.xml"
+    }
+]
