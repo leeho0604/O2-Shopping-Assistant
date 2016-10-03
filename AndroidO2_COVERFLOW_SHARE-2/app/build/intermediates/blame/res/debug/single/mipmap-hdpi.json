@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/res/merged/debug/mipmap-hdpi/o2.png",
+        "source": "/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/src/main/res/mipmap-hdpi/o2.png"
+    }
+]

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="19"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="52779443778500"
+    token="-5030202452601472425"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="116" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="8" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="52779443778500"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

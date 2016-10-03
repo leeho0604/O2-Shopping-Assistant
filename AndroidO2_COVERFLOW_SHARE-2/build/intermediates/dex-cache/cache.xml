@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_fad2f67fe2fa86832985719fd15796ee34d5db1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_369ed89f752cfcd9dcc2ffab4850f5497192717c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_6eef959b7ece1ba95017c18f84d5b24732ac748d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e2129ae0db273228c5e083dbe72a39e4c7be1f06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_99519dff4db86370523c901d6cc9ad4f4e8f62f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a1f956ca1bc5bff0b2394158763ec50f06306571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_429f76e5d3828b8095aada342f3129faf07988fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="84f5db8ae5641a34ee1106e9b3b1c60516fdf277">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_d209ec4ca3f0f4c262ec8902168397d81f3af15d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.github.moondroid.coverflow/library/1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="42dd7a8aa383b6967e640be8149e11b8ada22944">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/com.github.moondroid.coverflow-library-1.0_0fc47aa2d72dc45fedb1c5c8c449a0b77395822d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5bdc31cd8a7189aa398cd056ffd799f79c01f7fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_1e7e5282c31b25d6aa733eda5ff4caf2f6884239.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.4.0_203bbcd27318bfa607312027394ccbfbb472299c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_29acff59a749508a57883bd44a1d31e42bed89a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_1d5afb051e52acff28ed0de385bb1f07caa5d066.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_d03ac329800877f36f6d2ae1ee1f7caeb8b8cce2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_ad80dd569216b6169454e26e55d276b408d2da85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="df6791bb4f5402ed138d3dd1385f8e2bc3ac8728">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.16.0_470ae57f8f1a0e84a77cb412886033757e3dd1f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_22492dfe8838ff1228cc23b08544c9739f0d6033.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="50128f0eafd9e820abdec81125a29e662a2fb17c">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/instant-run_13635f7bd32791d3368f54ad5f6e54194fc3b057.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0_0a80d961ee1d68b8b05f1d5da8c29d9b732ba581.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_99c795042d8680565ee1f3609c23b3269dd160dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_1bacbf3f5bee3a15432abf6eebd9a65d437dba1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_768377d0eb63a675d3ed029ae173a0d638166c03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.0.0_259b81a138be218dbf6471256c4e7b9ce71e458b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_41f32807ad0655b2c46e933a5d7140efba8a4f85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_e758b4c97f53671b4b5290cd47e0f8afcaed986a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_c90636a3e8c1511a9d30626c7910c26050c808ac.jar" />
+    </item>
+
+</items>

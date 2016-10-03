@@ -1,0 +1,4 @@
+#Mon Oct 03 18:28:01 KST 2016
+base.0=/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/mchoi/Documents/VCS/Mchoi/O2-Shopping-Assistant/AndroidO2_COVERFLOW_SHARE/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
