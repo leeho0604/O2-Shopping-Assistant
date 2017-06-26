@@ -1,8 +1,8 @@
 <head>
 <meta http-equiv = "content-Type" content = "text/html" charset = "utf-8">
-</head> <!-- ÇÑ±Û Áö¿ø(DB´Â utf-8_unicode_ci·Î ¸¸µé¾îÁÖ¼¼¿ä)À» À§ÇÑ ¼Ò½º -->
+</head> <!-- í•œê¸€ ì§€ì›(DBëŠ” utf-8_unicode_cië¡œ ë§Œë“¤ì–´ì£¼ì„¸ìš”)ì„ ìœ„í•œ ì†ŒìŠ¤ -->
 <?
-$connect = mysqli_connect("mysql.hostinger.kr", 'u366220461_o2', "badcode", "u366220461_o2");
+$connect = mysqli_connect("mysql.hostinger.kr", 'u377782305_user', "bitiotansehen", "u377782305_sql"); //webpageconnect
 
 //connection check
 if (!$connect) {
@@ -15,22 +15,22 @@ if (!$connect) {
 echo "Success: A proper connection to MySQL was made!" . PHP_EOL;
 echo "Host information: " . mysqli_get_host_info($connect) . PHP_EOL;
 
-mysqli_query($connect, "set names utf8"); //À§¿Í ¸¶Âù°¡Áö·Î utf8À» Áö¿øÇÏ±â
+mysqli_query($connect, "set names utf8"); //ìœ„ì™€ ë§ˆì°¬ê°€ì§€ë¡œ utf8ì„ ì§€ì›í•˜ê¸°
 
-$look_id = $_GET['look_id'];
-$qry1 = "select product_id from LOOKS_PRODUCT_TB where look_id = '$look_id';";
+$look_id = $_GET['look_id'];	//look_id ê°€ì ¸ì˜¤ëŠ”ë¶€ë¶„
+$qry1 = "select product_id from LOOKS_PRODUCT_TB where look_id = '$look_id';";	//confirm look_id
 echo $qry1;
 
-$result1 = mysqli_query($connect, $qry1);
+$result1 = mysqli_query($connect, $qry1);	//check the look_id from webpage ++row number
 
 if(!$result1) {
 	echo mysqli_errno() . ": " . mysqli_error() . PHP_EOL;
 }
 
 printf("row number returned : %d\n", mysqli_num_rows($result1));
-$xmlcode = "<?xml version = \"1.0\" encoding = \"utf-8\"?>\n";
+$xmlcode = "<?xml version = \"1.0\" encoding = \"utf-8\"?>\n";		//XML declare
 
-while($obj = mysqli_fetch_object($result1))
+while($obj = mysqli_fetch_object($result1))	//++line number
 {
 	$product_id = $obj->product_id;
 	
@@ -38,20 +38,20 @@ while($obj = mysqli_fetch_object($result1))
 	$result2 = mysqli_query($connect, $qry2);
 	$row = mysqli_fetch_array($result2, MYSQLI_NUM);
 	
-	$xmlcode .= "<node>\n"; //xml¿¡¼­ ±¸ºĞÇÏ±â ½±µµ·Ï node·Î ±¸ºĞ
+	$xmlcode .= "<node>\n"; //xmlì—ì„œ êµ¬ë¶„í•˜ê¸° ì‰½ë„ë¡ nodeë¡œ êµ¬ë¶„
 	$xmlcode .= "<product_id>$row[0]</product_id>\n";
 	$xmlcode .= "<name>$row[1]</name>\n";
 	$xmlcode .= "<price>$row[2]</price>\n";
 	$xmlcode .= "<comment>$row[3]</comment>\n";
 	$xmlcode .= "<category>$row[4]</category>\n";
 	$xmlcode .= "<product_image>$row[5]</product_image>\n";
-	$xmlcode .= "<material>$row[6]</material>\n";	//»õ·Î Ãß°¡µÈ Á¤º¸:±¸¼º
-	$xmlcode .= "<laundry>$row[7]</laundry>\n";	//»õ·Î Ãß°¡µÈ Á¤º¸:¼¼Å¹ ÁÖÀÇ»çÇ×
+	$xmlcode .= "<material>$row[6]</material>\n";	//ìƒˆë¡œ ì¶”ê°€ëœ ì •ë³´:êµ¬ì„±
+	$xmlcode .= "<laundry>$row[7]</laundry>\n";	//ìƒˆë¡œ ì¶”ê°€ëœ ì •ë³´:ì„¸íƒ ì£¼ì˜ì‚¬í•­
 	$xmlcode .= "</node>\n";
 }
 
-$dir = "/home/u366220461/public_html/"; //ÆÄÀÏÀÌ ÀÖÀ» µğ·ºÅä¸®
-$filename = $dir."product_search_result.xml"; //ÆÄÀÏ ÀÌ¸§
+$dir = "/home/u366220461/public_html/"; //íŒŒì¼ì´ ìˆì„ ë””ë ‰í† ë¦¬
+$filename = $dir."product_search_result.xml"; //íŒŒì¼ ì´ë¦„
 
 $valid = file_put_contents($filename, $xmlcode);
 
